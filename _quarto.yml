@@ -1,16 +1,17 @@
 project:
   type: website
-  output-dir: blogs
 
 website:
   title: "Dipesh Shrestha"
   navbar: 
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        file: index.qmd
+      - text: Blogs
+        file: blog.qmd
     tools:
       - icon: linkedin
-        href: https://linkedin.com/
+        href: https://www.linkedin.com/in/dipesh-shrestha-7b90b2187
       - icon: github
-        href: https://github.com/shrestha1/shrestha1.github.io
+        href: https://github.com/shrestha1
       
