@@ -1,0 +1,8 @@
+---
+title: "Data Science"
+author: "Dipesh Shrestha"
+categories: [Data, Exploratory Data Analysis, Statistical Inference, Classification, Regression]
+date: "2024-02-03"
+---
+
+## All about Data Science
