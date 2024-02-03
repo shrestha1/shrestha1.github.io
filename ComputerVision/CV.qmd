@@ -1,8 +1,0 @@
----
-title: "Computer Vision "
-author: "Dipesh Shrestha"
-categories: [Image, Convolution Neural Network, Bounding Box, Object Detection, Deep Learning]
-date: "2024-02-03"
----
-
-## All about Computer Vision
